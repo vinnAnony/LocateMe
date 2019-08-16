@@ -1,2 +1,2 @@
 # LocateMe
-Gets one's live location and on time location
+Gets one's live location and one time location
